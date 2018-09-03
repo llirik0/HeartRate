@@ -1,5 +1,5 @@
 //
-//  HRRecorsViewController.swift
+//  HRRecordsViewController.swift
 //  HeartRate
 //
 //  Created by Kirill G on 8/31/18.
@@ -10,7 +10,7 @@ import UIKit
 import HealthKit
 import SCLAlertView
 
-class HRRecorsViewController: UIViewController
+class HRRecordsViewController: UIViewController
 {
     
     var tempHeartBPM = [String]()
@@ -126,7 +126,7 @@ class HRRecorsViewController: UIViewController
 }
 
 // MARK: TableView methods
-extension HRRecorsViewController: UITableViewDelegate, UITableViewDataSource
+extension HRRecordsViewController: UITableViewDelegate, UITableViewDataSource
 {
     
      func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
