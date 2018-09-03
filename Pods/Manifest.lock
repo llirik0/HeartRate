@@ -1,0 +1,16 @@
+PODS:
+  - SCLAlertView (0.8)
+
+DEPENDENCIES:
+  - SCLAlertView (~> 0.8)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SCLAlertView
+
+SPEC CHECKSUMS:
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+
+PODFILE CHECKSUM: 85103555464dee8a98ad88758e88d8941f401946
+
+COCOAPODS: 1.5.3
