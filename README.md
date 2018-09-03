@@ -2,7 +2,7 @@
 HeartRate - HealthKit
 
 ## 
-- https://github.com/vikmeup/SCLAlertView-Swift
+- Custom alert view: https://github.com/vikmeup/SCLAlertView-Swift
 - HealthKit
 - Xcode 10 Swift 4
 
